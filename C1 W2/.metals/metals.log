@@ -1,0 +1,54 @@
+2022.05.11 10:32:13 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\.metals\lsp.trace.json or C:\Users\Sam\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.11 10:32:14 INFO  logging to file C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\.metals\metals.log
+2022.05.11 10:32:14 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2' for client Visual Studio Code 1.67.0.
+2022.05.11 10:32:17 INFO  time: initialize in 2.73s
+2022.05.11 10:32:17 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.11 10:32:17 WARN  Build server is not auto-connectable.
+2022.05.11 10:32:17 WARN  no build tool detected in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.05.11 10:32:19 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.11 10:32:19 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.11 10:32:22 INFO  no build target found for C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.11 10:32:25 INFO  time: code lens generation in 4.95s
+2022.05.11 10:32:25 INFO  time: code lens generation in 4.95s
+2022.05.11 10:32:25 INFO  time: code lens generation in 5.31s
+2022.05.11 10:32:25 INFO  time: code lens generation in 5.31s
+2022.05.11 10:32:25 INFO  time: code lens generation in 5.31s
+2022.05.11 10:32:25 INFO  time: code lens generation in 5.31s
+2022.05.11 10:41:10 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.11 10:42:27 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.11 10:56:23 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.11 11:00:22 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSetsInterface.scala
+2022.05.11 11:00:25 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\Main.scala
+2022.05.11 11:06:15 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.11 11:07:01 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.11 11:08:02 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.11 11:08:43 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+May 11, 2022 11:10:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1109
+2022.05.11 11:11:27 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.11 11:13:52 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.11 11:14:01 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.11 11:14:52 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.11 11:15:42 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.11 11:16:14 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.11 11:17:07 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.11 11:20:43 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.11 11:21:00 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.11 14:25:00 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.12 07:58:03 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.12 07:59:11 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.12 08:00:25 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.12 08:02:24 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.12 08:02:59 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.12 08:04:26 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.12 08:07:07 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.12 08:08:30 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.12 08:10:45 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.12 08:10:51 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+May 12, 2022 8:11:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5004
+2022.05.12 08:12:04 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.12 08:30:17 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+May 12, 2022 8:31:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5183
+2022.05.12 08:39:05 INFO  shutting down Metals

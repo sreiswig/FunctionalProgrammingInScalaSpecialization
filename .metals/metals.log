@@ -248,3 +248,17 @@ Caused by: java.lang.IllegalArgumentException: 30 is not a valid line number, al
 2022.05.05 05:39:18 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W1\recfun\build.sbt
 2022.05.05 05:39:20 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W1\recfun\assignment.sbt
 2022.05.05 05:39:27 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W1\recfun\src\test\scala\recfun\RecFunSuite.scala
+2022.05.06 00:16:32 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W1\example\build.sbt
+2022.05.06 00:16:35 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W1\example\assignment.sbt
+2022.05.06 00:28:27 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.06 00:36:02 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\Main.scala
+2022.05.06 00:36:07 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.06 01:09:34 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSetsInterface.scala
+2022.05.06 01:09:35 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\Main.scala
+2022.05.06 01:09:36 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.06 01:10:16 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSets.scala
+2022.05.06 01:10:18 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.06 01:15:11 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\FunSetsInterface.scala
+2022.05.06 01:15:17 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\main\scala\funsets\Main.scala
+2022.05.06 01:15:21 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W2\funsets\src\test\scala\funsets\FunSetSuite.scala
+2022.05.11 10:03:11 INFO  shutting down Metals
