@@ -1,0 +1,62 @@
+2022.05.17 09:05:28 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\.metals\lsp.trace.json or C:\Users\Sam\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.17 09:05:29 INFO  logging to file C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\.metals\metals.log
+2022.05.17 09:05:29 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3' for client Visual Studio Code 1.67.1.
+2022.05.17 09:05:32 INFO  time: initialize in 3.22s
+2022.05.17 09:05:32 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.17 09:05:32 WARN  Build server is not auto-connectable.
+2022.05.17 09:05:32 WARN  no build tool detected in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.05.17 09:05:34 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\test\scala\objsets\TweetSetSuite.scala
+2022.05.17 09:05:37 INFO  no build target found for C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\test\scala\objsets\TweetSetSuite.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.17 09:05:39 INFO  time: code lens generation in 4.58s
+2022.05.17 09:05:39 INFO  time: code lens generation in 4.58s
+2022.05.17 09:07:34 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetData.scala
+2022.05.17 09:07:39 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetReader.scala
+2022.05.17 09:07:51 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\project\StudentTasks.scala
+2022.05.17 09:07:57 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 11:39:19 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\test\scala\objsets\TweetSetSuite.scala
+2022.05.17 11:39:50 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetData.scala
+2022.05.17 11:39:55 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetReader.scala
+2022.05.17 11:40:00 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 11:40:00 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSetInterface.scala
+2022.05.17 11:40:07 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 11:51:22 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 11:52:21 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 11:54:22 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 11:56:32 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 11:59:07 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 11:59:53 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 12:00:27 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 12:00:47 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 12:01:08 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 12:04:33 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 12:05:26 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 12:05:44 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\test\scala\objsets\TweetSetSuite.scala
+2022.05.17 12:10:08 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 12:13:12 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 13:06:06 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 13:06:34 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 13:06:57 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 13:07:19 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 13:08:11 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 13:08:46 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 13:09:32 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 13:10:01 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 13:10:13 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 13:10:36 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 15:44:02 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 15:44:32 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 15:45:31 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 15:46:35 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 15:47:19 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+May 17, 2022 3:48:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2871
+2022.05.17 15:48:59 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 15:49:25 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+May 17, 2022 3:49:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2965
+2022.05.17 15:49:50 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 15:51:35 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 15:52:31 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 15:52:56 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 15:54:54 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W3\objsets\src\main\scala\objsets\TweetSet.scala
+2022.05.17 17:42:21 INFO  shutting down Metals
