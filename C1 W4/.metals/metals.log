@@ -1,0 +1,19 @@
+2022.05.25 00:48:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\.metals\lsp.trace.json or C:\Users\Sam\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.25 00:48:42 INFO  logging to file C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\.metals\metals.log
+2022.05.25 00:48:42 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4' for client Visual Studio Code 1.67.2.
+2022.05.25 00:48:44 INFO  time: initialize in 2.25s
+2022.05.25 00:48:44 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.25 00:48:44 WARN  Build server is not auto-connectable.
+2022.05.25 00:48:44 WARN  no build tool detected in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.05.25 00:48:46 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.25 00:48:49 INFO  no build target found for C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.25 00:48:49 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\test\scala\patmat\HuffmanSuite.scala
+2022.05.25 00:48:52 INFO  time: code lens generation in 2.48s
+2022.05.25 00:48:52 INFO  time: code lens generation in 5.7s
+2022.05.25 00:48:52 INFO  time: code lens generation in 5.7s
+2022.05.25 00:48:52 INFO  time: code lens generation in 2.48s
+2022.05.25 00:49:53 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.25 00:49:55 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\HuffmanInterface.scala
+2022.05.28 19:46:57 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\.metals\lsp.trace.json or C:\Users\Sam\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.28 19:46:58 INFO  logging to file C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\.metals\metals.log
+2022.05.28 19:46:58 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4' for client Visual Studio Code 1.67.2.
