@@ -17,3 +17,57 @@
 2022.05.28 19:46:57 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\.metals\lsp.trace.json or C:\Users\Sam\AppData\Local\scalameta\metals\cache\lsp.trace.json
 2022.05.28 19:46:58 INFO  logging to file C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\.metals\metals.log
 2022.05.28 19:46:58 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4' for client Visual Studio Code 1.67.2.
+2022.05.28 19:47:00 INFO  time: initialize in 2.1s
+2022.05.28 19:47:04 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.28 19:47:04 WARN  Build server is not auto-connectable.
+2022.05.28 19:47:04 WARN  no build tool detected in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.05.28 19:47:05 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.28 19:47:08 INFO  no build target found for C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.28 19:47:10 INFO  time: code lens generation in 4.65s
+2022.05.28 19:47:10 INFO  time: code lens generation in 4.65s
+2022.05.28 19:59:44 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.28 23:59:26 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\test\scala\patmat\HuffmanSuite.scala
+2022.05.29 00:00:32 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\test\scala\patmat\HuffmanSuite.scala
+2022.05.29 00:00:39 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 01:40:34 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 01:41:00 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 05:06:08 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 05:06:33 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 05:19:12 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 05:20:50 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 05:21:15 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 05:21:29 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 05:21:44 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 05:22:21 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 13:38:39 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+May 29, 2022 1:40:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1587
+2022.05.29 13:43:18 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 13:51:05 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:14:29 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:14:57 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:15:30 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:15:45 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:21:47 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:22:40 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+May 29, 2022 3:23:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2413
+2022.05.29 15:25:04 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:26:04 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:26:22 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:26:51 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:29:49 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:30:05 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:30:49 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:35:25 INFO  shutting down Metals
+2022.05.29 15:36:18 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\.metals\lsp.trace.json or C:\Users\Sam\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.05.29 15:36:19 INFO  logging to file C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\.metals\metals.log
+2022.05.29 15:36:19 INFO  Started: Metals version 0.11.5 in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4' for client Visual Studio Code 1.67.2.
+2022.05.29 15:36:22 INFO  time: initialize in 3.21s
+2022.05.29 15:36:22 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.05.29 15:36:22 WARN  Build server is not auto-connectable.
+2022.05.29 15:36:22 WARN  no build tool detected in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.05.29 15:36:23 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala
+2022.05.29 15:36:26 INFO  shutting down Metals
+2022.05.29 15:36:26 INFO  no build target found for C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C1 W4\patmat\src\main\scala\patmat\Huffman.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.05.29 15:36:26 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
