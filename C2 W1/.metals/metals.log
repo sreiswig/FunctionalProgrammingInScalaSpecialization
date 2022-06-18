@@ -1,0 +1,72 @@
+2022.06.13 06:52:38 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\.metals\lsp.trace.json or C:\Users\Sam\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.06.13 06:52:39 INFO  logging to file C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\.metals\metals.log
+2022.06.13 06:52:39 INFO  Started: Metals version 0.11.6 in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1' for client Visual Studio Code 1.68.0.
+2022.06.13 06:52:41 INFO  time: initialize in 2.12s
+2022.06.13 06:52:41 WARN  Flyway upgrade recommended: H2 2.1.212 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.06.13 06:52:41 WARN  Build server is not auto-connectable.
+2022.06.13 06:52:41 WARN  no build tool detected in workspace 'C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.06.13 06:52:43 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\Heap.scala
+2022.06.13 06:52:44 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.13 06:52:47 INFO  no build target found for C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\Heap.scala. Using presentation compiler with project's scala-library version: 3.1.2
+2022.06.13 06:52:47 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\test\scala\quickcheck\test\Heap.scala
+2022.06.13 06:52:48 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala
+2022.06.13 06:52:50 INFO  time: code lens generation in 2.18s
+2022.06.13 06:52:50 INFO  time: code lens generation in 2.17s
+2022.06.13 06:52:50 INFO  time: code lens generation in 3.04s
+2022.06.13 06:52:50 INFO  time: code lens generation in 3.04s
+2022.06.13 06:52:50 INFO  time: code lens generation in 6.05s
+2022.06.13 06:52:50 INFO  time: code lens generation in 6.05s
+2022.06.13 06:52:50 INFO  time: code lens generation in 6.06s
+2022.06.13 06:52:50 INFO  time: code lens generation in 6.06s
+2022.06.13 06:52:50 INFO  time: code lens generation in 6.18s
+2022.06.13 06:52:50 INFO  time: code lens generation in 6.18s
+2022.06.13 06:53:08 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.13 06:53:15 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\test\scala\quickcheck\test\Heap.scala
+2022.06.13 06:53:19 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala
+Jun 13, 2022 6:53:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+2022.06.13 06:55:24 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\test\scala\quickcheck\test\Heap.scala
+2022.06.13 06:55:33 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+Jun 14, 2022 6:52:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 17, 2022 1:05:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 622
+2022.06.17 13:05:31 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.17 13:06:08 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.17 13:07:14 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.17 13:08:23 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.17 13:08:49 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\test\scala\quickcheck\test\Heap.scala
+2022.06.17 13:08:57 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\test\scala\quickcheck\test\Heap.scala
+2022.06.17 13:09:06 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala
+2022.06.18 10:00:24 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:02:25 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:04:17 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:04:43 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+Jun 18, 2022 10:10:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1377
+2022.06.18 10:10:39 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:11:00 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:11:13 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:11:16 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\Heap.scala
+2022.06.18 10:13:15 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:13:30 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:14:01 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:18:36 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:19:25 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:20:00 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:20:02 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:21:42 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:23:08 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:23:59 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:24:15 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:34:30 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:34:46 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\test\scala\quickcheck\QuickCheckSuite.scala
+2022.06.18 10:34:50 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\test\scala\quickcheck\test\Heap.scala
+2022.06.18 10:35:01 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:35:25 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:35:42 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:37:00 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 10:37:16 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 12:52:29 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 12:53:12 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
+2022.06.18 13:31:46 WARN  no build target for: C:\Users\Sam\Documents\Coursera\Functional Programming in Scala\FunctionalProgrammingInScalaSpecialization\C2 W1\quickcheck\src\main\scala\quickcheck\QuickCheck.scala
